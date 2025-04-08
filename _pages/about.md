@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 From July 2023 to now, Beijing Digital Native Digital City Research Center, Head of Frontier Technology Exploration Department，senior algorithm expert
+
 Research area:
 1. Spatial MLLM: 3D spatial scene understanding, spatial editing, spatial measurement and spatial positioning.
 2. Controllable generation of 3D scene: multi-modal controlled 3D scene diffusion model.
