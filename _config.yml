@@ -23,13 +23,13 @@ repository               : "ariczhang2008/ariczhang2008.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Chao Zhang"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  bio              : "Researcher & Beijing Digital Native Digital City Research Center"
+  location         : "Beijing"
+  employer         : "Beijing Digital Native Digital City Research Center"
+  uri              : https://ariczhang2008.github.io/# URL
+  email            : "ariczhang2009@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
